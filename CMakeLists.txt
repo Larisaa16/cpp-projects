@@ -4,4 +4,5 @@ project(cpp_projects)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(cpp_projects main.cpp
-        Suma-vector.cpp)
+        Suma-vector.cpp
+        "Alg 1.cpp")

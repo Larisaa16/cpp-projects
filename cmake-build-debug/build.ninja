@@ -61,6 +61,12 @@ build CMakeFiles/cpp_projects.dir/Suma-vector.cpp.obj: CXX_COMPILER__cpp_project
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir
 
+build CMakeFiles/cpp_projects.dir/Alg_1.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/Alg$ 1.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\Alg_1.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpp_projects
@@ -69,7 +75,7 @@ build CMakeFiles/cpp_projects.dir/Suma-vector.cpp.obj: CXX_COMPILER__cpp_project
 #############################################
 # Link the executable cpp_projects.exe
 
-build cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/Suma-vector.cpp.obj
+build cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/Suma-vector.cpp.obj CMakeFiles/cpp_projects.dir/Alg_1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
