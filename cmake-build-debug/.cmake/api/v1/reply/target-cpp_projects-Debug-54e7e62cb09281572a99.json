@@ -54,7 +54,10 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3,
+				4,
+				5
 			]
 		}
 	],
@@ -93,7 +96,10 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3,
+				4,
+				5
 			]
 		}
 	],
@@ -108,13 +114,31 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Suma-vector.cpp",
+			"path" : "cmake-build-debug/cpp-projects/Suma-vector.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Alg 1.cpp",
+			"path" : "cmake-build-debug/cpp-projects/Alg 1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/cpp-projects/Dobanda anuala.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/cpp-projects/Interschimbarea a 2 variabile.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Alg 2.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
