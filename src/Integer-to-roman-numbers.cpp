@@ -22,14 +22,12 @@ string intToRoman(int nr){
 
 }
 
-
-
 int main(){
 
   int nr;
   cout<<"Enter the arab number you want to convert: "; cin>>nr;
 
-  string roman = intToRoman(nr);
+  const string roman = intToRoman(nr);
   cout<<"The roman number is: "<<roman<<endl;
    return 0;
 }

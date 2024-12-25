@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-int n,i;
+    int n,i;
     float v[30], S=0;
 
     cout<<"Enter the length of the array: "; cin>>n;

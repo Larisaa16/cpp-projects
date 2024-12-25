@@ -51,39 +51,63 @@ build cmake_object_order_depends_target_cpp_projects: phony || .
 
 build CMakeFiles/cpp_projects.dir/main.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/main.cpp || cmake_object_order_depends_target_cpp_projects
   DEP_FILE = CMakeFiles\cpp_projects.dir\main.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir
 
-build CMakeFiles/cpp_projects.dir/cpp-projects/Suma-vector.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/cmake-build-debug/cpp-projects/Suma-vector.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\cpp-projects\Suma-vector.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+build CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Alg1.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Alg1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\cpp-projects
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
-build CMakeFiles/cpp_projects.dir/cpp-projects/Alg_1.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/cmake-build-debug/cpp-projects/Alg$ 1.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\cpp-projects\Alg_1.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+build CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Alg3.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Alg3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\cpp-projects
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
-build CMakeFiles/cpp_projects.dir/cpp-projects/Dobanda_anuala.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/cmake-build-debug/cpp-projects/Dobanda$ anuala.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\cpp-projects\Dobanda_anuala.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+build CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Alg4.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Alg4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\cpp-projects
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
-build CMakeFiles/cpp_projects.dir/cpp-projects/Interschimbarea_a_2_variabile.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/cmake-build-debug/cpp-projects/Interschimbarea$ a$ 2$ variabile.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\cpp-projects\Interschimbarea_a_2_variabile.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+build CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Calcul-data-nastere.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Calcul-data-nastere.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\cpp-projects
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
-build CMakeFiles/cpp_projects.dir/Alg_2.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/Alg$ 2.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\Alg_2.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+build CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/DobandaAnuala.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\DobandaAnuala.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Integer-to-roman-numbers.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Integer-to-roman-numbers.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Interschimbarea-2-variabile.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Interschimbarea-2-variabile.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Reuniune.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Reuniune.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/SumaVector.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\SumaVector.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
 
 # =============================================================================
@@ -93,7 +117,7 @@ build CMakeFiles/cpp_projects.dir/Alg_2.cpp.obj: CXX_COMPILER__cpp_projects_unsc
 #############################################
 # Link the executable cpp_projects.exe
 
-build cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/cpp-projects/Suma-vector.cpp.obj CMakeFiles/cpp_projects.dir/cpp-projects/Alg_1.cpp.obj CMakeFiles/cpp_projects.dir/cpp-projects/Dobanda_anuala.cpp.obj CMakeFiles/cpp_projects.dir/cpp-projects/Interschimbarea_a_2_variabile.cpp.obj CMakeFiles/cpp_projects.dir/Alg_2.cpp.obj
+build cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
