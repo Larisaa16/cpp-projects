@@ -12,4 +12,5 @@ add_executable(cpp_projects
         src/Interschimbarea-2-variabile.cpp
         src/Reuniune.cpp
         src/SumaVector.cpp
+        src/Diferenta-timp.cpp
 )
