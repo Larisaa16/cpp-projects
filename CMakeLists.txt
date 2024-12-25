@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 project(cpp_projects)
 
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
+
 add_executable(cpp_projects
         main.cpp
         src/Alg1.cpp
