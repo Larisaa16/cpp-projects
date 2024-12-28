@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "cpp_projects.exe"
+			"path" : "C:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe"
 		},
 		{
-			"path" : "cpp_projects.pdb"
+			"path" : "C:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 4,
+				"line" : 6,
 				"parent" : 0
 			}
 		]

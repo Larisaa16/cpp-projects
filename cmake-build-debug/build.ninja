@@ -121,15 +121,15 @@ build CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj: CXX_COMPILER__cpp_
 
 
 #############################################
-# Link the executable cpp_projects.exe
+# Link the executable C:\Users\asus\CLionProjects\cpp-projects\bin\cpp_projects.exe
 
-build cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj
+build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = cpp_projects.exe
+  TARGET_FILE = C:\Users\asus\CLionProjects\cpp-projects\bin\cpp_projects.exe
   TARGET_IMPLIB = libcpp_projects.dll.a
   TARGET_PDB = cpp_projects.exe.dbg
 
@@ -159,7 +159,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build cpp_projects: phony cpp_projects.exe
+build cpp_projects: phony C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe
+
+build cpp_projects.exe: phony C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe
 
 # =============================================================================
 # Folder targets.
@@ -169,7 +171,7 @@ build cpp_projects: phony cpp_projects.exe
 #############################################
 # Folder: C:/Users/asus/CLionProjects/cpp-projects/cmake-build-debug
 
-build all: phony cpp_projects.exe
+build all: phony C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe
 
 # =============================================================================
 # Built-in targets
