@@ -115,6 +115,24 @@ build CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj: CXX_COMPILER__cpp_
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
+build CMakeFiles/cpp_projects.dir/src/alg6.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/alg6.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\alg6.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/Alg5.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Alg5.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Alg5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/Nr-prim.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/Nr-prim.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\Nr-prim.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpp_projects
@@ -123,7 +141,7 @@ build CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj: CXX_COMPILER__cpp_
 #############################################
 # Link the executable C:\Users\asus\CLionProjects\cpp-projects\bin\cpp_projects.exe
 
-build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj
+build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj CMakeFiles/cpp_projects.dir/src/alg6.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg5.cpp.obj CMakeFiles/cpp_projects.dir/Nr-prim.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp_projects.dir

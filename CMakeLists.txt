@@ -15,4 +15,7 @@ add_executable(cpp_projects
         src/Reuniune.cpp
         src/SumaVector.cpp
         src/Diferenta-timp.cpp
+        src/alg6.cpp
+        src/Alg5.cpp
+        Nr-prim.cpp
 )
