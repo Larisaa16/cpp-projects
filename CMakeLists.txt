@@ -17,5 +17,5 @@ add_executable(cpp_projects
         src/Diferenta-timp.cpp
         src/alg6.cpp
         src/Alg5.cpp
-        Nr-prim.cpp
+        src/Nr-prim.cpp
 )
