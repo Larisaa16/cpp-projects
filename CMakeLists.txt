@@ -18,4 +18,7 @@ add_executable(cpp_projects
         src/alg6.cpp
         src/Alg5.cpp
         src/Nr-prim.cpp
+        src/Alg7.cpp
+        src/Alg8.cpp
+        src/Alg9.cpp
 )
