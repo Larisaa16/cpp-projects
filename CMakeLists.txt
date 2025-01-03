@@ -21,4 +21,5 @@ add_executable(cpp_projects
         src/Alg7.cpp
         src/Alg8.cpp
         src/Alg9.cpp
+        src/Distance-of-2-points.cpp
 )

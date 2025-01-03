@@ -1,7 +1,7 @@
 #include <iostream>
-//numbers between 100 and 599 that they have the digits in ascending order and the sum of the digits equals 18
+//numbers between 100 and 599 that they have the digits in arranged order and the sum of the digits equals 18
 using namespace std;
-//the sum of a number arranged asc equal to 18
+
 int main() {
     for (int a=100;a<=599;a++) {
         int unit=a%10;
