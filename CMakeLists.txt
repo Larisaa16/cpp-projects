@@ -25,4 +25,9 @@ add_executable(cpp_projects
         src/Alg10.cpp
         src/Alg11.cpp
         src/Alg12.cpp
+        src/Alg13.cpp
+        src/Alg14.cpp
+        src/Alg15.cpp
+        src/Alg16.cpp
+        src/Alg17.cpp
 )
