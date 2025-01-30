@@ -30,4 +30,5 @@ add_executable(cpp_projects
         src/Alg15.cpp
         src/Alg16.cpp
         src/Alg17.cpp
+        src/BinarySearch.cpp
 )
