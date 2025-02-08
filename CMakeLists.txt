@@ -31,4 +31,5 @@ add_executable(cpp_projects
         src/Alg16.cpp
         src/Alg17.cpp
         src/BinarySearch.cpp
+        src/MergeSort.cpp
 )
