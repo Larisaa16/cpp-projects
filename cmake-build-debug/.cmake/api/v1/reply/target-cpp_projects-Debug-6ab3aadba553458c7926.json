@@ -71,7 +71,10 @@
 				24,
 				25,
 				26,
-				27
+				27,
+				28,
+				29,
+				30
 			]
 		}
 	],
@@ -135,7 +138,10 @@
 				24,
 				25,
 				26,
-				27
+				27,
+				28,
+				29,
+				30
 			]
 		}
 	],
@@ -307,6 +313,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "src/MergeSort.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Max-and-min.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Max-min-v2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Min-Max-Per.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

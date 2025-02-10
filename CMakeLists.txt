@@ -32,4 +32,7 @@ add_executable(cpp_projects
         src/Alg17.cpp
         src/BinarySearch.cpp
         src/MergeSort.cpp
+        src/Max-and-min.cpp
+        src/Max-min-v2.cpp
+        src/Min-Max-Per.cpp
 )
