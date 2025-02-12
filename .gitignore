@@ -11,5 +11,3 @@ cmake-build-release/
 # Ignoră fișierele specifice IDE-urilor
 .idea/
 .vscode/
-
-# Ignoră alte fișiere sau directoare specifice proiectului tău
