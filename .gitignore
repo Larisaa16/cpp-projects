@@ -1,0 +1,15 @@
+# Ignoră toate fișierele executabile (.exe)
+*.exe
+
+# Ignoră directorul bin/
+bin/
+
+# Ignoră directoarele de build generate de CLion
+cmake-build-debug/
+cmake-build-release/
+
+# Ignoră fișierele specifice IDE-urilor
+.idea/
+.vscode/
+
+# Ignoră alte fișiere sau directoare specifice proiectului tău

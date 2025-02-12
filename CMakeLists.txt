@@ -36,4 +36,8 @@ add_executable(cpp_projects
         src/Max-min-v2.cpp
         src/Min-Max-Per.cpp
         src/QuickSort.cpp
+        src/Class-Log.cpp
+        src/Class-Constrc-Destruct.cpp
+        src/Class-Inheritage.cpp
+        src/Class-Virtual.cpp
 )
