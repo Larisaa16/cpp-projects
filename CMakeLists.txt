@@ -40,4 +40,7 @@ add_executable(cpp_projects
         src/Class-Constrc-Destruct.cpp
         src/Class-Inheritage.cpp
         src/Class-Virtual.cpp
+        "src/cmmdc .cpp"
+        src/Recursive-print-vector.cpp
+        src/Recursive-sum.cpp
 )
