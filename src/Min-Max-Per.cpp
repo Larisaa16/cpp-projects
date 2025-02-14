@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void minMaxPer(vector<int>& A, int& max, int& min) {
+void minMaxPer(const vector<int>& A, int& max, int& min) {
     int n=A.size();
     max=min=A[n-1];
 
