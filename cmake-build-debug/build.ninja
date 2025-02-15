@@ -283,6 +283,30 @@ build CMakeFiles/cpp_projects.dir/src/Recursive-sum.cpp.obj: CXX_COMPILER__cpp_p
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
+build CMakeFiles/cpp_projects.dir/src/Constructor-copiere.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Constructor-copiere.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Constructor-copiere.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/Clasa-Cerc.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Clasa-Cerc.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Clasa-Cerc.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/Produs.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Produs.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Produs.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
+build CMakeFiles/cpp_projects.dir/src/Fractie.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Fractie.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Fractie.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpp_projects
@@ -291,7 +315,7 @@ build CMakeFiles/cpp_projects.dir/src/Recursive-sum.cpp.obj: CXX_COMPILER__cpp_p
 #############################################
 # Link the executable C:\Users\asus\CLionProjects\cpp-projects\bin\cpp_projects.exe
 
-build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj CMakeFiles/cpp_projects.dir/src/alg6.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg5.cpp.obj CMakeFiles/cpp_projects.dir/src/Nr-prim.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg7.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg8.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg9.cpp.obj CMakeFiles/cpp_projects.dir/src/Distance-of-2-points.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg10.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg11.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg12.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg13.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg14.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg15.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg16.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg17.cpp.obj CMakeFiles/cpp_projects.dir/src/BinarySearch.cpp.obj CMakeFiles/cpp_projects.dir/src/MergeSort.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-and-min.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-min-v2.cpp.obj CMakeFiles/cpp_projects.dir/src/Min-Max-Per.cpp.obj CMakeFiles/cpp_projects.dir/src/QuickSort.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Log.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Constrc-Destruct.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Inheritage.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Virtual.cpp.obj CMakeFiles/cpp_projects.dir/src/cmmdc_.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-print-vector.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-sum.cpp.obj
+build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj CMakeFiles/cpp_projects.dir/src/alg6.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg5.cpp.obj CMakeFiles/cpp_projects.dir/src/Nr-prim.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg7.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg8.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg9.cpp.obj CMakeFiles/cpp_projects.dir/src/Distance-of-2-points.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg10.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg11.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg12.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg13.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg14.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg15.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg16.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg17.cpp.obj CMakeFiles/cpp_projects.dir/src/BinarySearch.cpp.obj CMakeFiles/cpp_projects.dir/src/MergeSort.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-and-min.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-min-v2.cpp.obj CMakeFiles/cpp_projects.dir/src/Min-Max-Per.cpp.obj CMakeFiles/cpp_projects.dir/src/QuickSort.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Log.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Constrc-Destruct.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Inheritage.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Virtual.cpp.obj CMakeFiles/cpp_projects.dir/src/cmmdc_.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-print-vector.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-sum.cpp.obj CMakeFiles/cpp_projects.dir/src/Constructor-copiere.cpp.obj CMakeFiles/cpp_projects.dir/src/Clasa-Cerc.cpp.obj CMakeFiles/cpp_projects.dir/src/Produs.cpp.obj CMakeFiles/cpp_projects.dir/src/Fractie.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
@@ -306,7 +330,7 @@ build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUT
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\asus\CLionProjects\cpp-projects\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\asus\CLionProjects\cpp-projects\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -317,7 +341,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Users\asus\CLionProjects\cpp-projects\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\asus\CLionProjects\cpp-projects -BC:\Users\asus\CLionProjects\cpp-projects\cmake-build-debug"
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\Users\asus\CLionProjects\cpp-projects\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\asus\CLionProjects\cpp-projects -BC:\Users\asus\CLionProjects\cpp-projects\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1

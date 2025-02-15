@@ -43,4 +43,8 @@ add_executable(cpp_projects
         "src/cmmdc .cpp"
         src/Recursive-print-vector.cpp
         src/Recursive-sum.cpp
+        src/Constructor-copiere.cpp
+        src/Clasa-Cerc.cpp
+        src/Produs.cpp
+        src/Fractie.cpp
 )
