@@ -241,29 +241,29 @@ build CMakeFiles/cpp_projects.dir/src/QuickSort.cpp.obj: CXX_COMPILER__cpp_proje
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
-build CMakeFiles/cpp_projects.dir/src/Class-Log.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Class-Log.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Class-Log.cpp.obj.d
+build CMakeFiles/cpp_projects.dir/src/OOP/Class-Log.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Class-Log.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Class-Log.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
 
-build CMakeFiles/cpp_projects.dir/src/Class-Constrc-Destruct.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Class-Constrc-Destruct.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Class-Constrc-Destruct.cpp.obj.d
+build CMakeFiles/cpp_projects.dir/src/OOP/Class-Constrc-Destruct.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Class-Constrc-Destruct.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Class-Constrc-Destruct.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
 
-build CMakeFiles/cpp_projects.dir/src/Class-Inheritage.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Class-Inheritage.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Class-Inheritage.cpp.obj.d
+build CMakeFiles/cpp_projects.dir/src/OOP/Class-Inheritage.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Class-Inheritage.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Class-Inheritage.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
 
-build CMakeFiles/cpp_projects.dir/src/Class-Virtual.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Class-Virtual.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Class-Virtual.cpp.obj.d
+build CMakeFiles/cpp_projects.dir/src/OOP/Class-Virtual.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Class-Virtual.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Class-Virtual.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
 
 build CMakeFiles/cpp_projects.dir/src/cmmdc_.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/cmmdc$ .cpp || cmake_object_order_depends_target_cpp_projects
   DEP_FILE = CMakeFiles\cpp_projects.dir\src\cmmdc_.cpp.obj.d
@@ -283,17 +283,17 @@ build CMakeFiles/cpp_projects.dir/src/Recursive-sum.cpp.obj: CXX_COMPILER__cpp_p
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
-build CMakeFiles/cpp_projects.dir/src/Constructor-copiere.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Constructor-copiere.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Constructor-copiere.cpp.obj.d
+build CMakeFiles/cpp_projects.dir/src/OOP/Constructor-copiere.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Constructor-copiere.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Constructor-copiere.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
 
-build CMakeFiles/cpp_projects.dir/src/Clasa-Cerc.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Clasa-Cerc.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Clasa-Cerc.cpp.obj.d
+build CMakeFiles/cpp_projects.dir/src/OOP/Clasa-Cerc.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Clasa-Cerc.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Clasa-Cerc.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
 
 build CMakeFiles/cpp_projects.dir/src/Produs.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Produs.cpp || cmake_object_order_depends_target_cpp_projects
   DEP_FILE = CMakeFiles\cpp_projects.dir\src\Produs.cpp.obj.d
@@ -301,11 +301,47 @@ build CMakeFiles/cpp_projects.dir/src/Produs.cpp.obj: CXX_COMPILER__cpp_projects
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
 
-build CMakeFiles/cpp_projects.dir/src/Fractie.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/Fractie.cpp || cmake_object_order_depends_target_cpp_projects
-  DEP_FILE = CMakeFiles\cpp_projects.dir\src\Fractie.cpp.obj.d
+build CMakeFiles/cpp_projects.dir/src/OOP/Fractie.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Fractie.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Fractie.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
-  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
+
+build CMakeFiles/cpp_projects.dir/src/OOP/Adunare-fractii.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Adunare-fractii.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Adunare-fractii.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
+
+build CMakeFiles/cpp_projects.dir/src/OOP/Puncte.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Puncte.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Puncte.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
+
+build CMakeFiles/cpp_projects.dir/src/OOP/User.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/User.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\User.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
+
+build CMakeFiles/cpp_projects.dir/src/OOP/Vector.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Vector.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Vector.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
+
+build CMakeFiles/cpp_projects.dir/src/OOP/Vector2.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Vector2.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Vector2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
+
+build CMakeFiles/cpp_projects.dir/src/OOP/Matrice.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug C$:/Users/asus/CLionProjects/cpp-projects/src/OOP/Matrice.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\src\OOP\Matrice.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\src\OOP
 
 
 # =============================================================================
@@ -315,7 +351,7 @@ build CMakeFiles/cpp_projects.dir/src/Fractie.cpp.obj: CXX_COMPILER__cpp_project
 #############################################
 # Link the executable C:\Users\asus\CLionProjects\cpp-projects\bin\cpp_projects.exe
 
-build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj CMakeFiles/cpp_projects.dir/src/alg6.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg5.cpp.obj CMakeFiles/cpp_projects.dir/src/Nr-prim.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg7.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg8.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg9.cpp.obj CMakeFiles/cpp_projects.dir/src/Distance-of-2-points.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg10.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg11.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg12.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg13.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg14.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg15.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg16.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg17.cpp.obj CMakeFiles/cpp_projects.dir/src/BinarySearch.cpp.obj CMakeFiles/cpp_projects.dir/src/MergeSort.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-and-min.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-min-v2.cpp.obj CMakeFiles/cpp_projects.dir/src/Min-Max-Per.cpp.obj CMakeFiles/cpp_projects.dir/src/QuickSort.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Log.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Constrc-Destruct.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Inheritage.cpp.obj CMakeFiles/cpp_projects.dir/src/Class-Virtual.cpp.obj CMakeFiles/cpp_projects.dir/src/cmmdc_.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-print-vector.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-sum.cpp.obj CMakeFiles/cpp_projects.dir/src/Constructor-copiere.cpp.obj CMakeFiles/cpp_projects.dir/src/Clasa-Cerc.cpp.obj CMakeFiles/cpp_projects.dir/src/Produs.cpp.obj CMakeFiles/cpp_projects.dir/src/Fractie.cpp.obj
+build C$:/Users/asus/CLionProjects/cpp-projects/bin/cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg1.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg3.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg4.cpp.obj CMakeFiles/cpp_projects.dir/src/Calcul-data-nastere.cpp.obj CMakeFiles/cpp_projects.dir/src/DobandaAnuala.cpp.obj CMakeFiles/cpp_projects.dir/src/Integer-to-roman-numbers.cpp.obj CMakeFiles/cpp_projects.dir/src/Interschimbarea-2-variabile.cpp.obj CMakeFiles/cpp_projects.dir/src/Reuniune.cpp.obj CMakeFiles/cpp_projects.dir/src/SumaVector.cpp.obj CMakeFiles/cpp_projects.dir/src/Diferenta-timp.cpp.obj CMakeFiles/cpp_projects.dir/src/alg6.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg5.cpp.obj CMakeFiles/cpp_projects.dir/src/Nr-prim.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg7.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg8.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg9.cpp.obj CMakeFiles/cpp_projects.dir/src/Distance-of-2-points.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg10.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg11.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg12.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg13.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg14.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg15.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg16.cpp.obj CMakeFiles/cpp_projects.dir/src/Alg17.cpp.obj CMakeFiles/cpp_projects.dir/src/BinarySearch.cpp.obj CMakeFiles/cpp_projects.dir/src/MergeSort.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-and-min.cpp.obj CMakeFiles/cpp_projects.dir/src/Max-min-v2.cpp.obj CMakeFiles/cpp_projects.dir/src/Min-Max-Per.cpp.obj CMakeFiles/cpp_projects.dir/src/QuickSort.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Class-Log.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Class-Constrc-Destruct.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Class-Inheritage.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Class-Virtual.cpp.obj CMakeFiles/cpp_projects.dir/src/cmmdc_.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-print-vector.cpp.obj CMakeFiles/cpp_projects.dir/src/Recursive-sum.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Constructor-copiere.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Clasa-Cerc.cpp.obj CMakeFiles/cpp_projects.dir/src/Produs.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Fractie.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Adunare-fractii.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Puncte.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/User.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Vector.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Vector2.cpp.obj CMakeFiles/cpp_projects.dir/src/OOP/Matrice.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp_projects.dir

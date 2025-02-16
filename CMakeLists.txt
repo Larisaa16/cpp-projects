@@ -36,15 +36,21 @@ add_executable(cpp_projects
         src/Max-min-v2.cpp
         src/Min-Max-Per.cpp
         src/QuickSort.cpp
-        src/Class-Log.cpp
-        src/Class-Constrc-Destruct.cpp
-        src/Class-Inheritage.cpp
-        src/Class-Virtual.cpp
+        src/OOP/Class-Log.cpp
+        src/OOP/Class-Constrc-Destruct.cpp
+        src/OOP/Class-Inheritage.cpp
+        src/OOP/Class-Virtual.cpp
         "src/cmmdc .cpp"
         src/Recursive-print-vector.cpp
         src/Recursive-sum.cpp
-        src/Constructor-copiere.cpp
-        src/Clasa-Cerc.cpp
+        src/OOP/Constructor-copiere.cpp
+        src/OOP/Clasa-Cerc.cpp
         src/Produs.cpp
-        src/Fractie.cpp
+        src/OOP/Fractie.cpp
+        src/OOP/Adunare-fractii.cpp
+        src/OOP/Puncte.cpp
+        src/OOP/User.cpp
+        src/OOP/Vector.cpp
+        src/OOP/Vector2.cpp
+        src/OOP/Matrice.cpp
 )
