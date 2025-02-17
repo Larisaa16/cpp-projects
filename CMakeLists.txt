@@ -53,4 +53,8 @@ add_executable(cpp_projects
         src/OOP/Vector.cpp
         src/OOP/Vector2.cpp
         src/OOP/Matrice.cpp
+        "src/OOP/Class Vector.cpp"
+        src/OOP/Fractie1.cpp
+        src/OOP/Operator-overloading.cpp
+        src/OOP/Database.cpp
 )
