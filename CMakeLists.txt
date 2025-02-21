@@ -57,4 +57,8 @@ add_executable(cpp_projects
         src/OOP/Fractie1.cpp
         src/OOP/Operator-overloading.cpp
         src/OOP/Database.cpp
+        src/OOP/Fractie2.cpp
+        src/OOP/Operator+-suprascriere.cpp
+        src/OOP/Complex.cpp
+        src/OOP/Clasa_ex.cpp
 )
