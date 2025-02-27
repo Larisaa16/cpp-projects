@@ -38,7 +38,7 @@ add_executable(cpp_projects
         src/QuickSort.cpp
         src/OOP/Class-Log.cpp
         src/OOP/Class-Constrc-Destruct.cpp
-        src/OOP/Class-Inheritage.cpp
+        src/OOP/Methods-Inheritage.cpp
         src/OOP/Class-Virtual.cpp
         "src/cmmdc .cpp"
         src/Recursive-print-vector.cpp
@@ -61,4 +61,28 @@ add_executable(cpp_projects
         src/OOP/Operator+-suprascriere.cpp
         src/OOP/Complex.cpp
         src/OOP/Clasa_ex.cpp
+        src/OOP/Class-Inheritage.cpp
+        src/OOP/Laturi.cpp
+        src/hei/print.cpp
+        src/hei/print.h
+        src/OOP/Figuri-geometrice/Latura.cpp
+        src/OOP/Figuri-geometrice/Latura.h
+        src/OOP/Figuri-geometrice/Figura.cpp
+        src/OOP/Figuri-geometrice/Figura.h
+        src/OOP/Figuri-geometrice/Triunghi.cpp
+        src/OOP/Figuri-geometrice/Triunghi.h
+        src/OOP/Figuri-geometrice/Patrat.h
+        src/OOP/Figuri-geometrice/Patrat.cpp
+        src/OOP/Figuri-geometrice/main.cpp
+        src/hei/printable.cpp
+        src/Alg18.cpp
+        src/OOP/Polimorfism-ClasaMagazin.cpp
 )
+
+#add_executable(FiguriGeometrice
+#        main.cpp
+#       Figura.cpp
+#        Latura.cpp
+#        Patrat.cpp
+#        Triunghi.cpp
+#)
