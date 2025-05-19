@@ -77,6 +77,12 @@ add_executable(cpp_projects
         src/hei/printable.cpp
         src/Alg18.cpp
         src/OOP/Polimorfism-ClasaMagazin.cpp
+        src/Liste-statice.cpp
+        src/Alg-Shunting-yard.cpp
+        src/LongestCommonPrefix.cpp
+        src/ValidPalindromeWithRemoval.cpp
+        src/TwoSum.cpp
+        src/CountIn2Strings.cpp
 )
 
 #add_executable(FiguriGeometrice
